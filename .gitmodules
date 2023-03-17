@@ -1,0 +1,3 @@
+[submodule "ERP.Style"]
+	path = ERP.Style
+	url = https://github.com/amrrizk95/ERP.Style.git
